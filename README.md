@@ -22,7 +22,7 @@ The questions I answer during my analysis:
 * The \*.csv files are the raw data files for all the Airbnb data
 
 ## Results
-My Deeper analysis and results are posted [here](https://sonalkarneil.medium.com/best-times-to-visit-boston-analyzing-pricing-and-availability-of-airbnb-units-127576d5d52f)
+My Deeper analysis and results are posted on my [blog](https://sonalkarneil.medium.com/best-times-to-visit-boston-analyzing-pricing-and-availability-of-airbnb-units-127576d5d52f)
 
 ## Acknowledgements
 The data for this project came from [Kaggle's Airbnb Dataset](https://www.kaggle.com/airbnb/boston?select=reviews.csv#)
