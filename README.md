@@ -6,6 +6,8 @@ This project was completed as part of the Udacity Data Science Nanodegree progra
 ### Packages
 * Pandas
 * Plotly
+### Tools
+* Tableau
 
 ## Motivation
 I was interested in learning the best times to visit the city of Boston, based on the September 2016-September 2017 data.
